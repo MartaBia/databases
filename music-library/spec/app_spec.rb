@@ -17,4 +17,4 @@ RSpec.describe Application do
     app = Application.new("music_library", io, album_repository, artist_repository)
     app.run
   end
-end
+ends
